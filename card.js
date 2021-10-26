@@ -9,7 +9,7 @@ const clear = require('clear');
 clear();
 
 const data = {
-  name: chalk.bold.green('                    Andres Calpa Lopez'),
+  name: chalk.bold.green('Andres Calpa Lopez'),
   handle: chalk.white('@hcalpa-condor'),
   work: `${chalk.white('Backend Developer at')} ${chalk
     .hex('#cca918')
@@ -47,7 +47,7 @@ const me = boxen(
     )}`,
     `${chalk.bold.gray(
       "If a person is persistent, even if he is hard of understanding, he will become intelligent; and even if it is weak it will become strong - "
-    )} ${chalk.bold("Da Vinci")}`
+    )} ${chalk.bold("Da Vinci")}`,
   ].join('\n'),
   {
     margin: 1,
