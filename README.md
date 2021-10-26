@@ -11,7 +11,7 @@ npx andrescalpacondor
 ### SCREENSHOT
 
 The final output might look something like this:
-![card-demo]()
+![card-demo](![npx-card-hcalpa](https://user-images.githubusercontent.com/80276566/138914387-64bd954f-7a76-460a-a418-9fb648ed0bd6.gif))
 
 #### Note:
 
