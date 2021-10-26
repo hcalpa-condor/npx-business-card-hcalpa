@@ -5,7 +5,7 @@ This my NPX card show you a little bit about me directly via console or terminal
 👇 Just hit
 
 ```bash
-npx andrescalpa
+npx andrescalpacondor
 ```
 
 ### SCREENSHOT
