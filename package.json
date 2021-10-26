@@ -1,0 +1,25 @@
+{
+  "name": "andrescalpacondor",
+  "version": "1.0.1",
+  "description": "This is a npm business card of Andres Calpa Lopez (hcalpa@condorlabs.io)",
+  "main": "card.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "hcalpa-condor",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "5.1.2",
+    "chalk": "4.1.2",
+    "clear": "0.1.0",
+    "prettyjson": "1.2.1"
+  }
+}
